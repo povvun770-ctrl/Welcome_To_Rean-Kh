@@ -1,0 +1,23 @@
+body{
+    font-style: 20px;
+}
+.tex_p{
+    color: rgb(214, 97, 97);
+    font-size: 20px ;
+    border: 3px solid black;
+   padding: 25px ;
+
+}
+.tex_h1{
+    border: 3px solid black;
+    padding: 25px 50px 70px;
+    width: 200px;
+    height: 100px;
+}
+.tex_h2{
+    width: 200px;
+    height: 100px;
+   padding: 25px 50px 70;
+    
+}
+   

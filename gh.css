@@ -1,0 +1,21 @@
+                                        body {
+                                            background-color: #2c5bc8;
+                                        }
+                                        
+                                        img {
+                                            width: 150px;
+                                            height: 150px;
+                                            background-image: url("./img/photo_2026-02-28_15-25-41.jpg");
+                                            background-size: cover;
+                                            background-position: center;
+                                            border-radius: 60%;
+                                        }
+                                        
+                                        .img-tex {
+                                            display: flex;
+                                            align-items: center;
+                                            color: white;
+                                            font-size: 60px;
+                                            margin-left: 40px;
+                                            font-family: 'Arial', sans-serif;
+                                        }
