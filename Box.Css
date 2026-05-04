@@ -1,0 +1,211 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    background-color: burlywood;
+    width: 1500px;
+    height: 100px;
+}
+
+.Box {
+    display: flex;
+    padding: 20px 30px;
+    background-color: black;
+}
+
+.Box1 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
+
+.Box1 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box2 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(147, 165, 42);
+}
+
+.Box2 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box3 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.Box3 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box4 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box4 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box5 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box5 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box6 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box6 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box7 {
+    display: flex;
+    padding: 20px 30px;
+    background-color: black;
+}
+
+.Box8 iframe {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
+
+.Box8 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box9 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(147, 165, 42);
+}
+
+.Box9 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box10 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.Box10 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box11 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box11 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box12 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box12 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.Box13 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box13 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+Box14 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(231, 46, 77);
+}
+
+.Box14 iframe {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.table,
+tr,
+th,
+td {
+    background-color: red;
+    padding: 10px;
+    border: black solid;
+    width: 1500px;
+}
+
+.img1 {
+    margin: 0px;
+    width: 800px;
+    height: 500px;
+}
+
+.img2 {
+    margin: 0px;
+    width: 800px;
+    height: 500px;
+}
